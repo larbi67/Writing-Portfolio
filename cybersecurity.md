@@ -16,3 +16,6 @@
   - Published: September 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/from-passive-gathering-to-active-scanning-the-roles-of-footprinting-and-reconnaissance-3d6995cf5815)
 
+- "Network Modeling with GNS3, Packet Tracer, and EVE-NG" - Medium
+  - Published: October 2023
+  - URL: [Link to the article]([https://medium.com/@Larbi.ouiyzme/network-modeling-with-gns3-packet-tracer-and-eve-ng-b225d7d6ad13)
