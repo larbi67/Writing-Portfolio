@@ -1,5 +1,10 @@
 **Writing Portfolio**
+- Microsoft Technology
+- IoT (Internet of Things)
+- Embedded Systems
 
+
+- Cybersecurity
 - "Exploring the Arsenal : A Comprehensive List of Network Scanning Tools used by an Ethical Hacker" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/exploring-the-arsenal-a-comprehensive-list-of-network-scanning-tools-used-by-an-ethical-hacker-b50a63cd3a75)
