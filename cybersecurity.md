@@ -1,7 +1,7 @@
 **Cybersecurity Writing Portfolio**
 
 - "Setting Up a Radio Frequency Penetration Testing Lab: A Comprehensive Guide" - Pentest Magazine pentestmag.com
-  - Published: October 2023
+  - Published: September 2023
   - URL: [Link to the article](https://pentestmag.com/setting-up-a-radio-frequency-penetration-testing-lab-a-comprehensive-guide/)
 
 - "Exploring the Arsenal : A Comprehensive List of Network Scanning Tools used by an Ethical Hacker" - Medium
