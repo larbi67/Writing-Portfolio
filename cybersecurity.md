@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "Setting Up a Radio Frequency Penetration Testing Lab: A Comprehensive Guide" - Pentest Magazine pentestmag.com
+  - Published: October 2023
+  - URL: [Link to the article](https://pentestmag.com/setting-up-a-radio-frequency-penetration-testing-lab-a-comprehensive-guide/)
+
 - "Exploring the Arsenal : A Comprehensive List of Network Scanning Tools used by an Ethical Hacker" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/exploring-the-arsenal-a-comprehensive-list-of-network-scanning-tools-used-by-an-ethical-hacker-b50a63cd3a75)
@@ -18,4 +22,4 @@
 
 - "Network Modeling with GNS3, Packet Tracer, and EVE-NG" - Medium
   - Published: October 2023
-  - URL: [Link to the article]([https://medium.com/@Larbi.ouiyzme/network-modeling-with-gns3-packet-tracer-and-eve-ng-b225d7d6ad13)
+  - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/network-modeling-with-gns3-packet-tracer-and-eve-ng-b225d7d6ad13)
