@@ -23,3 +23,11 @@
 - "Network Modeling with GNS3, Packet Tracer, and EVE-NG" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/network-modeling-with-gns3-packet-tracer-and-eve-ng-b225d7d6ad13)
+
+- "Understanding the 5 phases of ethical hacking" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/understanding-the-5-phases-of-ethical-hacking-6b22cf041083)
+
+- "The Importance of cybersecurity in today’s digital landscape" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/the-importance-of-cybersecurity-in-todays-digital-landscape-0993ea4712f3)
