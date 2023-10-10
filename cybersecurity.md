@@ -31,3 +31,11 @@
 - "The Importance of cybersecurity in today’s digital landscape" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/the-importance-of-cybersecurity-in-todays-digital-landscape-0993ea4712f3)
+
+- "Top 25 SANS Vulnerabilities in 2023" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/top-25-sans-vulnerabilities-in-2023-fba17f0e290e)
+
+- "Demystifying Cybersecurity Terms: What Are CVE, CWE, and NVD?" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/demystifying-cybersecurity-terms-what-are-cve-cwe-and-nvd-2eab771add11)
