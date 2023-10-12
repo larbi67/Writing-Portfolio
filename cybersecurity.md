@@ -4,6 +4,10 @@
   - Published: September 2023
   - URL: [Link to the article](https://pentestmag.com/setting-up-a-radio-frequency-penetration-testing-lab-a-comprehensive-guide/)
 
+- ""In our modern world, countless applications rely on radio frequency elements" - an Interview with Larbi Ouiyzme" - Pentest Magazine pentestmag.com
+  - Published: October 2023
+  - URL: [Link to the article](https://pentestmag.com/in-our-modern-world-countless-applications-rely-on-radio-frequency-elements-an-interview-with-larbi-ouiyzme/)
+
 - "Exploring the Arsenal : A Comprehensive List of Network Scanning Tools used by an Ethical Hacker" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/exploring-the-arsenal-a-comprehensive-list-of-network-scanning-tools-used-by-an-ethical-hacker-b50a63cd3a75)
