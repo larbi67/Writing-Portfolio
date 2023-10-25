@@ -55,3 +55,8 @@
 - "Demystifying Cybersecurity Terms: What Are CVE, CWE, and NVD?" - Medium
   - Published: October 2023
   - URL: [Link to the article](https://medium.com/@Larbi.ouiyzme/demystifying-cybersecurity-terms-what-are-cve-cwe-and-nvd-2eab771add11)
+
+- "A Comprehensive Guide to Web Application Attacks" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/a-comprehensive-guide-to-web-application-attacks-b74d0f2cc577)
+    
