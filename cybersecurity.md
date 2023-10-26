@@ -60,3 +60,6 @@
   - Published: October 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/a-comprehensive-guide-to-web-application-attacks-b74d0f2cc577)
     
+- "Mastering OWASP Top 10 by Solving TryHackMe Labs Part 1 of 2" - Medium
+  - Published: October 2023
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/mastering-owasp-top-10-by-solving-tryhackme-labs-part-1-of-2-8248b09ed445)
