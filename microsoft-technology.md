@@ -1,7 +1,7 @@
 **Microsoft Technology Writing Portfolio**
 
 - "Become Microsoft Certified in 2023 : Azure and Cybersecurity Certification" - Medium
-  - Published: October 2023
+  - Published: November 2023
   - URL: [Unlock Your Potential with Microsoft Training and Certifications](https://medium.com/@larbi-ouiyzme/unlock-your-potential-with-microsoft-training-and-certifications-d24ebd0d5de2)
 
 - "Become Microsoft Certified in 2023 : Azure and Cybersecurity Certification" - Medium
