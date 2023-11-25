@@ -1,6 +1,6 @@
 # Writing Portfolio
 
-Welcome to my Writing Portfolio. Here, you will find a collection of my writings and articles on various topics, including cybersecurity, the Internet of Things (IoT), Microsoft technologies, and more. Please feel free to explore the different sections to get a sense of my writing style and areas of expertise.
+Welcome to my Writing Portfolio. Here, you will find a collection of my writings and articles on various topics, including cybersecurity, the Internet of Things (IoT), Microsoft technologies, STEM, coding, Robotics, OT & ICS, embedded systems and more. Please feel free to explore the different sections to get a sense of my writing style and areas of expertise.
 
 ## Contents
 
@@ -8,7 +8,7 @@ Welcome to my Writing Portfolio. Here, you will find a collection of my writings
   - Articles and analyses on the latest trends in cybersecurity, threat intelligence, and information security.
 - [Industrial Cybersecurity: OT & ICS](./Industrial_Cybersecurity_OT_ICS.md)
   - Insights into industrial cybersecurity, with a focus on Operational Technology (OT) and Industrial Control Systems (ICS).
-- [Internet of Things (IoT)](./ioT.md)
+- [Internet of Things (IoT)](./iot.md)
   - Discussions on IoT innovations, challenges, and the impact of IoT on various industries.
 - [Microsoft's technologies](./microsoft-technology.md)
   - In-depth look into Microsoft's technologies, software developments, cloud Azure, craining, certifications and enterprise solutions.
@@ -19,7 +19,7 @@ Welcome to my Writing Portfolio. Here, you will find a collection of my writings
 
 ## About Me
 
-[I'm Larbi, a cybersecurity & Microsoft tech enthusiast from Morocco. As an IT trainer and consultant, I'm committed to helping others in IT. My passion drives me to stay current and share knowledge. Also, licensed Ham Radio Operator CN8FF, passionate about SDR, satellites, robotics, 3D printing, electronics, and RF Pentesting..]
+I'm Larbi, a cybersecurity & Microsoft tech enthusiast from Morocco. As an IT trainer and consultant, I'm committed to helping others in IT. My passion drives me to stay current and share knowledge. Also, licensed Ham Radio Operator CN8FF, passionate about cybersecurity, SDR, satellites, robotics, 3D printing, electronics, embedded systems, STEM, coding, Internet of Things (IoT), and RF Pentesting.
 
 ## Contact
 
