@@ -64,10 +64,6 @@
   - Published: October 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/mastering-owasp-top-10-by-solving-tryhackme-labs-part-1-of-2-8248b09ed445)
 
-- "First Steps in JavaScript and Building a Calculator" - Medium
-  - Published: November 2023
-  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/first-steps-in-javascript-and-building-a-calculator-07a16a25a18f)
-
 - "Understanding Subnetting and CIDR Notation: A Practical Guide" - Medium
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/understanding-subnetting-and-cidr-notation-a-practical-guide-7c9c44d2c883)
