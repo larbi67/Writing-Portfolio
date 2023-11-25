@@ -23,6 +23,8 @@ I'm Larbi, a cybersecurity & Microsoft tech enthusiast from Morocco. As an IT tr
 
 ## Contact
 
+[My Curriculum Vitae](https://github.com/larbi67/CV)
+
 [Linkedin Profile](https://www.linkedin.com/in/larbi-ouiyzme-12596b75/)
 
 Thank you for visiting my portfolio. I hope you find the articles insightful and informative.
