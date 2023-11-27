@@ -64,8 +64,12 @@
   - Published: October 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/mastering-owasp-top-10-by-solving-tryhackme-labs-part-1-of-2-8248b09ed445)
 
-- "Understanding Subnetting and CIDR Notation: A Practical Guide" - Medium
+- "Understanding Subnetting and CIDR Notation : A Practical Guide" - Medium
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/understanding-subnetting-and-cidr-notation-a-practical-guide-7c9c44d2c883)
+
+- "Maximizing Cybersecurity with Open Source and Hybrid Solutions : A Guide for Blue Teams" - Medium
+  - Published: November 2023
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/maximizing-cybersecurity-with-open-source-and-hybrid-solutions-a-guide-for-blue-teams-ff622102f58e)
 
 [Back to Main Portfolio](./README.md)
