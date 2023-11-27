@@ -4,7 +4,7 @@
   - Published: September 2023
   - URL: [Link to the article](https://pentestmag.com/setting-up-a-radio-frequency-penetration-testing-lab-a-comprehensive-guide/)
 
-- ""In our modern world, countless applications rely on radio frequency elements" - an Interview with Larbi Ouiyzme" - Pentest Magazine pentestmag.com
+- "In our modern world, countless applications rely on radio frequency elements" - an Interview with Larbi Ouiyzme" - Pentest Magazine pentestmag.com
   - Published: October 2023
   - URL: [Link to the article](https://pentestmag.com/in-our-modern-world-countless-applications-rely-on-radio-frequency-elements-an-interview-with-larbi-ouiyzme/)
 
