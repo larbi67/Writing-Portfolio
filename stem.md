@@ -8,7 +8,7 @@
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/exploring-the-programming-world-with-python-and-turtle-9cc7da096528)
 
-- "On the Way to Python : A Fun STEM Course for Future Coders" - Medium
+- "On the Way to Python : A Fun STEM Course for Future Coders (English version)" - Medium
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/on-the-way-to-python-a-fun-stem-course-for-future-coders-ae6f89d68d05)
  
