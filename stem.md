@@ -10,7 +10,7 @@
 
 - "Explorer le Monde de la Programmation avec Python et Turtle (French version)" - Medium
   - Published: December 2023
-  - URL: [Link to the article]https://larbi-ouiyzme.medium.com/explorer-le-monde-de-la-programmation-avec-python-et-turtle-french-version-bcefd89b76f3()
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/explorer-le-monde-de-la-programmation-avec-python-et-turtle-french-version-bcefd89b76f3()
 
 - "On the Way to Python : A Fun STEM Course for Future Coders (English version)" - Medium
   - Published: November 2023
