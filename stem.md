@@ -16,7 +16,7 @@
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/on-the-way-to-python-a-fun-stem-course-for-future-coders-ae6f89d68d05)
 
- - "En Route vers Python : Un Cours STEM Amusant pour les Futurs Codeurs (French version)" - Medium
+- "En Route vers Python : Un Cours STEM Amusant pour les Futurs Codeurs (French version)" - Medium
   - Published: December 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/en-route-vers-python-un-cours-stem-amusant-pour-les-futurs-codeurs-b96be4667653)
 
