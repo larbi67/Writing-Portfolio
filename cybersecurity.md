@@ -72,4 +72,8 @@
   - Published: November 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/maximizing-cybersecurity-with-open-source-and-hybrid-solutions-a-guide-for-blue-teams-ff622102f58e)
 
+- "Cybersecurity’s Critical Duo : Exploring the Dynamics of PAM and IAM" - Medium
+  - Published: December 2023
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/cybersecuritys-critical-duo-exploring-the-dynamics-of-pam-and-iam-e837d488b7f6)
+
 [Back to Main Portfolio](./README.md)
