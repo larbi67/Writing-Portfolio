@@ -28,12 +28,4 @@
   - Published: November 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/introduction-to-programming-with-python-for-middle-and-high-school-students-68350cbee6ba)
 
-- "xxx" - Medium
-  - Published: November 2023
-  - URL: [Link to the article]()
-
-- "xxx" - Medium
-  - Published: November 2023
-  - URL: [Link to the article]()
-
 [Back to Main Portfolio](./README.md)
