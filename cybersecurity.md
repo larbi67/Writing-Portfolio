@@ -76,4 +76,8 @@
   - Published: December 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/cybersecuritys-critical-duo-exploring-the-dynamics-of-pam-and-iam-e837d488b7f6)
 
+- "Professional Growth through English Proficiency : My Experience in Cybersecurity" - Medium
+  - Published: December 2023
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/professional-growth-through-english-proficiency-my-experience-in-cybersecurity-54bec16ec119)
+
 [Back to Main Portfolio](./README.md)
