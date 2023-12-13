@@ -28,4 +28,8 @@
   - Published: November 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/introduction-to-programming-with-python-for-middle-and-high-school-students-68350cbee6ba)
 
+- "Empowering Youth Through Game Development in STEM Education : A Python and Pygame Approach (English version)" - Medium
+  - Published: Decembre 2023
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/empowering-youth-through-game-development-in-stem-education-a-python-and-pygame-approach-816cbd591555)
+
 [Back to Main Portfolio](./README.md)
