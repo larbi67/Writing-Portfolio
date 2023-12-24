@@ -4,7 +4,7 @@
   - Published: December 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/anticipating-2025-strategies-for-a-sustainable-it-infrastructure-after-the-end-of-windows-10-c840e3b342e5)
 
-- "Become Microsoft Certified in 2023 : Azure and Cybersecurity Certification" - Medium
+- "Unlock Your Potential with Microsoft Training and Certifications" - Medium
   - Published: November 2023
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/unlock-your-potential-with-microsoft-training-and-certifications-d24ebd0d5de2)
 
