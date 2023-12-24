@@ -1,8 +1,12 @@
 **Microsoft Technology Writing Portfolio**
 
+- "Anticipating 2025 : Strategies for a Sustainable IT Infrastructure After the End of Windows 10 Support" - Medium
+  - Published: December 2023
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/anticipating-2025-strategies-for-a-sustainable-it-infrastructure-after-the-end-of-windows-10-c840e3b342e5)
+
 - "Become Microsoft Certified in 2023 : Azure and Cybersecurity Certification" - Medium
   - Published: November 2023
-  - URL: [Unlock Your Potential with Microsoft Training and Certifications](https://medium.com/@larbi-ouiyzme/unlock-your-potential-with-microsoft-training-and-certifications-d24ebd0d5de2)
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/unlock-your-potential-with-microsoft-training-and-certifications-d24ebd0d5de2)
 
 - "Become Microsoft Certified in 2023 : Azure and Cybersecurity Certification" - Medium
   - Published: October 2023
