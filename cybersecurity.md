@@ -79,5 +79,9 @@
 - "Professional Growth through English Proficiency : My Experience in Cybersecurity" - Medium
   - Published: December 2023
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/professional-growth-through-english-proficiency-my-experience-in-cybersecurity-54bec16ec119)
+ 
+- "Understanding the Trusted Platform Module (TPM) : From Version 1.2 to 2.0 and Beyond" - Medium
+  - Published: December 2023
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/understanding-the-trusted-platform-module-tpm-from-version-1-2-to-2-0-and-beyond-6c7b6f7bff34)
 
 [Back to Main Portfolio](./README.md)
