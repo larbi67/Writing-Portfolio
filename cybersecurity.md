@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "CVE-2024–3094 Vulnerability : Embedded Malicious Code in XZ Utils Versions 5.6.0 and 5.6.1 — A Three-Year Supply Chain Attack" - Medium
+  - Published: March 2024
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/cve-2024-3094-vulnerability-embedded-malicious-code-in-xz-utils-versions-5-6-0-9c494b2cc82b)
+  
 - "Setting Up a Radio Frequency Penetration Testing Lab: A Comprehensive Guide" - Pentest Magazine pentestmag.com
   - Published: September 2023
   - URL: [Link to the article](https://pentestmag.com/setting-up-a-radio-frequency-penetration-testing-lab-a-comprehensive-guide/)
