@@ -1,5 +1,21 @@
 **Cybersecurity Writing Portfolio**
 
+- "Understanding the PuTTY vulnerability : CVE-2024–31497" - Medium
+  - Published: April 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/understanding-the-putty-vulnerability-cve-2024-31497-b3763b1d321b)
+
+- "How to test a Linux Distribution without installing it" - Medium
+  - Published: April 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/how-to-test-a-linux-distribution-without-installing-it-7292901edd42)
+
+- "CVE-2024–3400 Vulnerability in Palo Alto Networks — Severity 10 : Critical" - Medium
+  - Published: April 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/cve-2024-3400-vulnerability-in-palo-alto-networks-severity-10-critical-001875a2bc4c)
+
+- "The utility of Microsoft Copilot for a Cybersecurity Engineer" - Medium
+  - Published: April 2024
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/cve-2024-3094-vulnerability-embedded-malicious-code-in-xz-utils-versions-5-6-0-9c494b2cc82b)
+
 - "CVE-2024–3094 Vulnerability : Embedded Malicious Code in XZ Utils Versions 5.6.0 and 5.6.1 — A Three-Year Supply Chain Attack" - Medium
   - Published: March 2024
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/cve-2024-3094-vulnerability-embedded-malicious-code-in-xz-utils-versions-5-6-0-9c494b2cc82b)
