@@ -8,7 +8,7 @@
   - Published: April 2024
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/embarking-on-computer-vision-for-facial-and-voice-recognition-with-low-cost-artificial-intelligence-887b3c9fdfd4)
 
- - "Embedded security with STM32H7S : A comprehensive guide" - Medium
+- "Embedded security with STM32H7S : A comprehensive guide" - Medium
   - Published: April 2024
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/embedded-security-with-stm32h7s-a-comprehensive-guide-d18a9841c8a6)
 
