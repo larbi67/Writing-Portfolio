@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "The evolving landscape of cybersecurity : A comprehensive overview" - Medium
+  - Published: April 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/the-evolving-landscape-of-cybersecurity-a-comprehensive-overview-3fcd56475989)
+
 - "Understanding the PuTTY vulnerability : CVE-2024–31497" - Medium
   - Published: April 2024
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/understanding-the-putty-vulnerability-cve-2024-31497-b3763b1d321b)
