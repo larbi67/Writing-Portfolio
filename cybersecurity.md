@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "The use of antivirus, EDR, and XDR technologies in small and medium-sized businesses (SMB)" - Medium
+  - Published: July 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/the-use-of-antivirus-edr-and-xdr-technologies-in-small-and-medium-sized-businesses-smb-9650b50815a8)
+    
 - "The evolving landscape of cybersecurity : A comprehensive overview" - Medium
   - Published: April 2024
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/the-evolving-landscape-of-cybersecurity-a-comprehensive-overview-3fcd56475989)
