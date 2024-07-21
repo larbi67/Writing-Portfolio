@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "Comprehensive PHP application security audit : Leveraging PHP.ini security scanner, code review, and vulnerability scanning tools" - Medium
+  - Published: July 2024
+  - URL: [Link to the article](https://larbi-ouiyzme.medium.com/comprehensive-php-application-security-audit-leveraging-php-ini-b015b4d284f4)
+
 - "The use of antivirus, EDR, and XDR technologies in small and medium-sized businesses (SMB)" - Medium
   - Published: July 2024
   - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/the-use-of-antivirus-edr-and-xdr-technologies-in-small-and-medium-sized-businesses-smb-9650b50815a8)
