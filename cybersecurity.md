@@ -1,5 +1,9 @@
 **Cybersecurity Writing Portfolio**
 
+- "Protect your information assets : Verifying the exposure of private code repositories" - Medium
+  - Published: September 2024
+  - URL: [Link to the article](https://medium.com/@larbi-ouiyzme/protect-your-information-assets-verifying-the-exposure-of-private-code-repositories-c065526c2eb8)
+
 - "Comprehensive PHP application security audit : Leveraging PHP.ini security scanner, code review, and vulnerability scanning tools" - Medium
   - Published: July 2024
   - URL: [Link to the article](https://larbi-ouiyzme.medium.com/comprehensive-php-application-security-audit-leveraging-php-ini-b015b4d284f4)
